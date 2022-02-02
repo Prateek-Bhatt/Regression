@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @protekbot
+- 👋 Hi, I’m @Prateek Bhatt
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning with Python
 - 📫 How to reach me prateek10bhatt@gmail.com
